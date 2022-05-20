@@ -1,0 +1,28 @@
+#footer{
+    background-color: rgb(205, 236, 235);
+}
+
+
+body{
+    background-color: rgb(223, 238, 235);
+}
+
+h1{
+    color: black;
+}
+
+
+h2{
+    color: black;
+}
+
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+a:hover{
+    background-color: rgb(172, 236, 222);
+    border-color: black;
+    
+}
+
+
